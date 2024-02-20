@@ -3,3 +3,7 @@ second line
 THIRD LINE  
 fourth line 
 fifth line from github 
+the last line - the last word 
+all is lost 
+all is done 
+the last line in the local respository 
